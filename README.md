@@ -1,20 +1,20 @@
 # Overview
 
-**What is Sugarlink?**
+**Sugarlink** **is a Web3 dating APP that implements date-to-earn concept with inbuild Social-Fi elements.**
 
-**Sugarlink** is a Web 3 adult dating APP that implements **date-to-earn** concept with inbuild **Social-Fi** elements.
+Sugarlink is designed to make arrangements for a mutual beneficial relationship between two individuals. Every arrangement will be stored on the blockchain ledger through Zero Knowledge (ZK) proofs.
 
-**Sugarlink** is designed to make arrangements for a mutual beneficial relationship between two individuals.
+After an arrangement has been done, both of babes and dadies of Sugarlink will **** gain a return of token currency based on feedback, which can either be used in app, or cashed out for profit.
 
-Every arrangement will be consent and will record&#x20;
+### Definition
 
-**Definition**
+Babes: A babe is a indivisual who tries to provide friendship or intimacy. &#x20;
 
-Content Creator: A content creator is a indivisual who tries to provide friendship or intimacy. &#x20;
+Dadies: A dady is a indivisual who gives financial assisstance in return to such companionship.
 
-User: A user is a indivisual who gives financial assisstance in return to such companionship.
+Utility Token: $DAD
 
-Surgarlink Token: $SGR
+Governance Token: $BAB
 
-Both of content creators and users of Sugarlink will earn token currency, which can either be used in app interaction, or cashed out for profit. will gain a high return of $SGR
+
 
