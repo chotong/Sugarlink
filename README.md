@@ -2,7 +2,7 @@
 
 ## **What is Sugarlink?**
 
-**Sugarlink** is a web3 adult dating platform that implements **date-to-earn** concept with inbuild **Social-Fi** elements.
+**Sugarlink** is a Web 3 adult dating APP that implements **date-to-earn** concept with inbuild **Social-Fi** elements.
 
 **Sugarlink** is designed to make arrangements for a mutual beneficial relationship between two individuals.
 
@@ -10,7 +10,7 @@ Every arrangement will be consent and will record&#x20;
 
 users will earn token currency, which can either be used in sugarlink, or cashed out for profit.
 
-With Game-Fi, **STEPN** aims to nudge millions toward a healthier lifestyle, combat climate change and connect the public to Web 3.0, all while simultaneously hinging on it’s Social-Fi aspect to build a long-lasting platform fostering user generated Web 3.0 content.
+With Game-Fi, **STEPN** aims to nudge millions toward a healthier lifestyle, combat climate change and connect the public to Web 3, all while simultaneously hinging on it’s Social-Fi aspect to build a long-lasting platform fostering user generated Web 3.0 content.
 
 
 
