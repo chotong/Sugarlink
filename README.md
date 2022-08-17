@@ -1,6 +1,6 @@
 # Overview
 
-**Sugarlink** **is a Web3 dating APP that implements date-to-earn concept with inbuild Social-Fi elements.**
+**Sugarlink** **is a Web3 dating APP that implements match-to-earn concept with inbuild Social-Fi elements.**
 
 Sugarlink is designed to make arrangements for a mutual beneficial relationship between two individuals. Every arrangement will be stored on the blockchain ledger through Zero Knowledge (ZK) proofs.
 
