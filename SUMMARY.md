@@ -1,13 +1,13 @@
 # Table of contents
 
 * [Overview](README.md)
+* [Content Creators Guide](content-creators-guide.md)
 * [Users Guide](users-guide.md)
-* [Dating System](dating-system/README.md)
-  * [ghame](dating-system/ghame.md)
-  * [Page 7](dating-system/page-7.md)
 * [Social-Fi System](social-fi-system/README.md)
   * [Page 8](social-fi-system/page-8.md)
   * [Page 9](social-fi-system/page-9.md)
+  * [Page 2](social-fi-system/page-2.md)
+  * [Page 7](social-fi-system/page-7.md)
 * [Tokenomics](tokenomics/README.md)
   * [Page 4](tokenomics/page-4.md)
   * [Page 5](tokenomics/page-5.md)

@@ -1,4 +1,4 @@
-# Users Guide
+# Content Creators Guide
 
 To Start, users need to download the Sugarlink APP.
 
@@ -15,9 +15,4 @@ If an account and password are set up in the APP for login, the email account an
 **2. Create a new Wallet**
 
 Click on the Wallet icon on the screen.\
-The app will generate a 12-word secret phrase. This will be used to recover your Wallet if you uninstall the app or forget your password. **Important** – Note this phrase and save it somewhere safe \
-****
-
-3\.&#x20;
-
-****
+The app will generate a 12-word secret phrase. This will be used to recover your Wallet if you uninstall the app or forget your password. **Important** – Note this phrase and save it somewhere safe&#x20;
